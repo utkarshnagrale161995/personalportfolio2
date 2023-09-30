@@ -21,7 +21,7 @@ function Header(){
 
             <Navbar.Collapse className='collapse navbar-collapse justify-content-end' id="basic-navbar-nav">
                 <Nav activeKey="/">
-                    <Nav.Link  href="/"><b>Home</b></Nav.Link>
+                    <Nav.Link  href="/personalportfolio2"><b>Home</b></Nav.Link>
                     <Nav.Link  href="/about"><b>About Me</b></Nav.Link>
                     <Nav.Link  href="/academics"><b>Academics</b></Nav.Link>
                     <Nav.Link  href="/professional"><b>Professional</b></Nav.Link>
