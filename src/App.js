@@ -15,10 +15,10 @@ function App() {
   return (
     <div>
       
-      <BrowserRouter basename="/personalportfolio2">
+      <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/personalportfolio2" element={<Home/>}/>
+        <Route path="/" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/academics" element={<Academics/>}/>
         <Route path="/professional" element={<Professional/>}/>
