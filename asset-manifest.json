@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personalportfolio2/static/css/main.ec6f173c.css",
-    "main.js": "/personalportfolio2/static/js/main.2cfa064b.js",
+    "main.js": "/personalportfolio2/static/js/main.f1b38f4e.js",
     "static/js/787.18a4379c.chunk.js": "/personalportfolio2/static/js/787.18a4379c.chunk.js",
     "static/media/pic5.jpg": "/personalportfolio2/static/media/pic5.f1bb1041d4e702162bd0.jpg",
     "static/media/ASP.NETCertificate.jpg": "/personalportfolio2/static/media/ASP.NETCertificate.99ddbdf8c6c7d1ad10fc.jpg",
@@ -50,11 +50,11 @@
     "static/media/ReactAssessment.jpg": "/personalportfolio2/static/media/ReactAssessment.c26351cf9d175643afb0.jpg",
     "index.html": "/personalportfolio2/index.html",
     "main.ec6f173c.css.map": "/personalportfolio2/static/css/main.ec6f173c.css.map",
-    "main.2cfa064b.js.map": "/personalportfolio2/static/js/main.2cfa064b.js.map",
+    "main.f1b38f4e.js.map": "/personalportfolio2/static/js/main.f1b38f4e.js.map",
     "787.18a4379c.chunk.js.map": "/personalportfolio2/static/js/787.18a4379c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec6f173c.css",
-    "static/js/main.2cfa064b.js"
+    "static/js/main.f1b38f4e.js"
   ]
 }
